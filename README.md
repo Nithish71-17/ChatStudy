@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## NAME: NITHISH G S
+## REG.NO: 24003058
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
